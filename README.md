@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Priyankapawar2206
+- 👋 Hi, I’m Priyanka Pawar
 - 👀 I’m interested in Data Science and Data Analyst
 - 🌱 I’m currently learning Python,Data Visualization,Database Management,Machine Learning,Analytical Skills.
 - 📫 How to reach me 2021mmb1373@iitrpr.ac.in
